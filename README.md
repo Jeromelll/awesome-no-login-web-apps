@@ -140,7 +140,7 @@ To save the world from creating user accounts and installing software applicatio
 ### File Hosting/Sharing
 
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
-* [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine's copies of old web pages. No account needed to search or read.
+* [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine’s copies of old web pages. No account needed to search or read.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
 * [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
@@ -239,7 +239,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Android launcher icon, notification icon etc generator from existing images.
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/) - Feature-rich website tester.
 * [Regulex](https://jex.im/regulex/) - JavaScript regular expression visualizer.
-* [GTmetrix](https://gtmetrix.com/) - Analyze your site's speed and make it faster.
+* [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * [BuildWith](https://builtwith.com/) - Find the technology stack to know everything about a website.
 * [WooRank](https://www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
